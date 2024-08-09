@@ -41,7 +41,7 @@ public class maximize_arr_value_shit {
 // User function Template for Java
 
 class Solution {
-
+    int MOD = (int) Math.pow(10, 9)+7;
     int Maximize(int arr[]) {
         // Complete the function
         Arrays.sort(arr);
